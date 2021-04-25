@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\impairOccurencesChar\impairOccurencesChar\bin\Debug\impairOccurencesChar.exe.config
+C:\Users\PC\source\repos\impairOccurencesChar\impairOccurencesChar\bin\Debug\impairOccurencesChar.exe
+C:\Users\PC\source\repos\impairOccurencesChar\impairOccurencesChar\bin\Debug\impairOccurencesChar.pdb
+C:\Users\PC\source\repos\impairOccurencesChar\impairOccurencesChar\obj\Debug\impairOccurrencesChar.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\impairOccurencesChar\impairOccurencesChar\obj\Debug\impairOccurrencesChar.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\impairOccurencesChar\impairOccurencesChar\obj\Debug\impairOccurencesChar.exe
+C:\Users\PC\source\repos\impairOccurencesChar\impairOccurencesChar\obj\Debug\impairOccurencesChar.pdb
+F:\Utilisateur\PC\PC\source\repos\impairOccurencesChar\impairOccurencesChar\bin\Debug\impairOccurencesChar.exe.config
+F:\Utilisateur\PC\PC\source\repos\impairOccurencesChar\impairOccurencesChar\bin\Debug\impairOccurencesChar.exe
+F:\Utilisateur\PC\PC\source\repos\impairOccurencesChar\impairOccurencesChar\bin\Debug\impairOccurencesChar.pdb
+F:\Utilisateur\PC\PC\source\repos\impairOccurencesChar\impairOccurencesChar\obj\Debug\impairOccurrencesChar.csprojAssemblyReference.cache
+F:\Utilisateur\PC\PC\source\repos\impairOccurencesChar\impairOccurencesChar\obj\Debug\impairOccurrencesChar.csproj.CoreCompileInputs.cache
+F:\Utilisateur\PC\PC\source\repos\impairOccurencesChar\impairOccurencesChar\obj\Debug\impairOccurencesChar.exe
+F:\Utilisateur\PC\PC\source\repos\impairOccurencesChar\impairOccurencesChar\obj\Debug\impairOccurencesChar.pdb
